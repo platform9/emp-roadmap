@@ -1,6 +1,6 @@
 # Elastic Machine Pool (EMP) Public Roadmap
 
-🚀 View the EMP Public Roadmap
+🚀 [View the EMP Public Roadmap](https://github.com/orgs/platform9/projects/6/views/1)
 
 Our public roadmap is designed to keep you informed about the ongoing and future developments of EMP. It shows which features are actively being worked on, what's coming soon, and when you can expect to see new features.
 
